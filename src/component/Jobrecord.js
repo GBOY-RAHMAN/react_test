@@ -56,6 +56,10 @@ class Jobrecord extends Component {
           <div className='display_record'>
             <p>Total Job Offers Received:</p>
             <p>{totalJobOffersReceived}</p>
+            <p>Total Job Offers Received:</p>
+            <p>{totalJobOffersReceived}</p>
+            <p>Total Job Offers Received:</p>
+            <p>{totalJobOffersReceived}</p>
           </div>
         </section>
       </div>
